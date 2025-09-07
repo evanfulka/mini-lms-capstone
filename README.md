@@ -9,7 +9,7 @@ Proyek ini dibangun sebagai *Single Page Application* (SPA) menggunakan React.js
 ### Identitas Pengembang
 
 - **Nama:** Evan Fulka Bima Maheswara
-- **NIM:** 22210512079
+- **NIM:** 2210512079
 - **Program Studi:** S1 Sistem Informasi
 - **Universitas:** Universitas Pembangunan Nasional "Veteran" Jakarta
 
