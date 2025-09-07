@@ -39,7 +39,7 @@ Proyek ini dibangun sebagai *Single Page Application* (SPA) menggunakan React.js
 - **Library Tambahan:**
   - **`react-hot-toast`:** Untuk menampilkan notifikasi *pop-up* yang bersih dan informatif.
 - **Deployment:**
-  - Direncanakan untuk di-*deploy* menggunakan **Vercel** atau **Netlify**.
+  - **Firebase Hosting:** Aplikasi ini telah di-*deploy* dan dapat diakses secara publik. **[Lihat Versi Live](https://mini-lms-capstone.web.app/)**
 
 ---
 
