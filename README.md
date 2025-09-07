@@ -1,6 +1,6 @@
 # Mini-LMS (Learning Management System)
 
-Sebuah aplikasi web Learning Management System (LMS) sederhana yang dibuat sebagai *Capstone Project* untuk program **HACKTIV8 & IBM "Student Developer Initiative"**. Aplikasi ini memungkinkan pengguna untuk mendaftar, login, melihat daftar kursus, dan melacak progres belajar mereka.
+Sebuah aplikasi web Learning Management System (LMS) sederhana yang dibuat sebagai *Capstone Project* untuk program **HACKTIV8 & IBM**. Aplikasi ini memungkinkan pengguna untuk mendaftar, login, melihat daftar kursus, dan melacak progres belajar mereka.
 
 Proyek ini dibangun sebagai *Single Page Application* (SPA) menggunakan React.js dan memanfaatkan Firebase sebagai Backend-as-a-Service (BaaS) untuk otentikasi dan database.
 
